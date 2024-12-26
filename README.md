@@ -6,6 +6,9 @@
 - 🤝 **Collaboration**: Open to partnering with fellow developers and innovators to build impactful, intelligent systems.
 - 📬 **Contact**: berkayfehmit@gmail.com
 
+![image](https://github.com/user-attachments/assets/915c6ae9-a87c-4e28-b948-95fd3a4c6752)
+
+
 
 <!--
 **Berkayft/berkayft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
