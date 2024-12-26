@@ -6,7 +6,8 @@
 - 🤝 **Collaboration**: Open to partnering with fellow developers and innovators to build impactful, intelligent systems.
 - 📬 **Contact**: berkayfehmit@gmail.com
 
-![xx](https://github.com/user-attachments/assets/8648cc44-1e5d-4eba-92dd-2b3afa31ef5d)
+<img src="https://github.com/user-attachments/assets/8648cc44-1e5d-4eba-92dd-2b3afa31ef5d" alt="xx" width="400">
+
 
 
 
